@@ -8,6 +8,7 @@ praktikum kali ini adalah membuat semacam filter keamanan untuk melindungi brows
 #
 <img width="1920" height="1080" alt="Screenshot (1395)" src="https://github.com/user-attachments/assets/7fab7ad8-bbde-40e6-ac4c-ea54b106f1a2" />
 #
+
 ketiga ss diatas adalah aplikasi postman yang mencoba membaca browser yang kemudian di tolak sistem disitu dengan error 401
 #
 <img width="1920" height="1080" alt="Screenshot (1396)" src="https://github.com/user-attachments/assets/8b2eae90-8ae6-4c4c-80dd-95fd56015fcb" />
